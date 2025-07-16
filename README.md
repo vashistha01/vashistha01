@@ -1,5 +1,5 @@
 👋 Hi, I’m Janvi Vashistha
- 👀 I am a Data sorcerer wielding algorithms and statistical magic, unraveling the secrets hidden in vast data realms. Adept at conjuring actionable insights and transforming chaos into order.
+ 👀 I am a Data sorcerer wielding algorithms and statistical magic, unraveling the secrets hidden in vast data realms. Adept at conjuring actionable insights and transforming chaos into order. I am a Data Analyst passionate about transforming raw data into strategic insights. With experience in Python, sentiment analysis, recommender engines and EDA, I help in uncovering hidden trends, optimizing performance, and making data-driven decisions. Let’s connect and explore how we can create impact together.
  Join me on a journey of data enlightenment and revolutionize the world together.
  Contact me on:- jvashistha01@gmail.com 
                  https://medium.com/@jvashistha01
